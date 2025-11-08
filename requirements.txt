@@ -1,0 +1,6 @@
+pandas==2.2.3
+SQLAlchemy==2.0.34
+matplotlib==3.9.2
+seaborn==0.13.2
+phik==0.12.4
+scipy==1.13.1
